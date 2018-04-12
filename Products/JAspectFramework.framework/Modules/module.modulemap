@@ -1,0 +1,6 @@
+framework module JAspectFramework {
+  umbrella header "JAspectFramework.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ViewController</key>
+	<array>
+		<dict>
+			<key>sel</key>
+			<string>viewWillAppear:</string>
+			<key>name</key>
+			<string>ViewControllerWillAppear</string>
+			<key>desc</key>
+			<string>ViewController即将展示</string>
+		</dict>
+		<dict>
+			<key>handlerClass</key>
+			<string>JAspectHandler</string>
+			<key>sel</key>
+			<string>buttonClick:</string>
+			<key>name</key>
+			<string>buttonClick</string>
+			<key>desc</key>
+			<string>ViewController按钮点击</string>
+		</dict>
+	</array>
+</dict>
+</plist>
